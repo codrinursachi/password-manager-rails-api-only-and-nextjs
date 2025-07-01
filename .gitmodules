@@ -1,0 +1,6 @@
+[submodule "password-manager-rails-api-only"]
+	path = password-manager-rails-api-only
+	url = https://github.com/codrinursachi/password-manager-rails-api-only.git
+[submodule "password-manager-rails-api-only-nextjs"]
+	path = password-manager-rails-api-only-nextjs
+	url = https://github.com/codrinursachi/password-manager-rails-api-only-nextjs.git
